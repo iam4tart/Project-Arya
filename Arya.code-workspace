@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/augmented"
+		},
+		{
+			"path": "../Downloads/destination_folder"
+		},
+		{
+			"path": "../convertaudio/AudioToSpectogram/spectrograms"
+		}
+	],
+	"settings": {}
+}
