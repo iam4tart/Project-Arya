@@ -1,4 +1,4 @@
 # Project-Arya
-Environmentally &amp; Context Aware Question Answering Hindi Language Model
+Indic Accent Stress Analysis leveraging Speech and Environmental Noise Dynamics
 
 ![](https://i.ibb.co/vH9S6XY/Group-1-3.png)
