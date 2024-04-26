@@ -2,7 +2,7 @@
 Indic Accent Stress Analysis leveraging Speech and Environmental Noise Dynamics
 
 
-## Performance comparison of different models
+## Performance comparison of different models to predict stress levels in audio
 
 | Model                | Augmented Data | Test Accuracy | Spectrogram Images | MFCC  |
 |----------------------|----------------|---------------|--------------------|-------|
