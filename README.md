@@ -20,4 +20,5 @@ Our findings indicate that low-footprint custom deep neural network models, whic
 
 ## Future work 
 We will be improving the results given by the transformer model pipeline
-<img src="https://i.ibb.co/4ZfWSzL/transformer.png" width="200">
+<br/>
+<img src="https://i.ibb.co/4ZfWSzL/transformer.png" width="512">
