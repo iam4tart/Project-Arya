@@ -17,3 +17,6 @@ Our findings indicate that low-footprint custom deep neural network models, whic
 | Modified CNN         | No             | 66.00%        | Yes                | No    |
 | **Modified CNN**     | **Yes**        | **82.00%**    | **Yes**            | **Yes** |
 
+
+Future work will be based on improving the transformer model pipeline
+![](https://i.ibb.co/4ZfWSzL/transformer.png)
