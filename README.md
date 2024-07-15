@@ -1,5 +1,5 @@
 # Project-Arya
-Indic Accent Stress Analysis leveraging Speech and Environmental Noise Dynamics
+Indic Accent <b>Stress Analysis</b> leveraging Speech and Environmental Noise Dynamics
 
 Our findings indicate that low-footprint custom deep neural network models, which are computationally efficient, have outperformed existing complex architectures like ResNet-50, RNN and EfficientNet in stress level classification. These models can be utilized in real-time consumer devices due their computational efficiency, offering better accuracy than existing models while being computationally less expensive.
 
